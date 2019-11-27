@@ -14,5 +14,6 @@
 			<div class="col-md-6">Div 3</div>
 		</div>
 	</div>
+	<p>parrafo del davis</p>
 </body>
 </html>
